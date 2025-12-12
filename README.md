@@ -67,7 +67,7 @@ RegisterNumber:25016458
 
 **TIMING DIGRAMS FOR SISO Shift Register**
 
-<img width="1920" height="1080" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/95f111de-ff8e-4ca2-8baf-fec84e53c75e" />
+<img width="1920" height="1080" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/de69be87-7f15-435b-83b0-e700382d65fe" />
 
 
 **RESULTS**
